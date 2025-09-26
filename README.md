@@ -24,7 +24,7 @@ This Flutter trading application prototype demonstrates a complete mobile tradin
 
 <div align="center">
   
-  [![Flutter Trading App Demo](https://img.youtube.com/vi/CTuRE5X5Ew8&list=LL/maxresdefault.jpg)](https://www.youtube.com/watch?v=CTuRE5X5Ew8&list=LL)
+  [![Flutter Trading App Demo](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=CTuRE5X5Ew8&list=LL)
   
   *Click the thumbnail above to watch the full demo on YouTube*
   
@@ -67,7 +67,7 @@ This Flutter trading application prototype demonstrates a complete mobile tradin
 <div align="center">
   
 ### Main Trading Interface
-![Trading Interface](screenshots/trading_interface.png)
+![Trading Interface](screenshots/dashboard.jpg)
 
 ### Portfolio Dashboard
 ![Portfolio Dashboard](screenshots/portfolio_dashboard.png)
