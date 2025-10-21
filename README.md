@@ -127,18 +127,18 @@ flutter build ios --release
 - Gesture handling
 
 
-## 📞 Contact
+## 💬 Connect
 
-**Your Name** - [@Hom](https://x.com/KishanP07684084) - pathakhom17@gmail.com
+For questions, feedback, or collaborations:
 
-📺 **YouTube Demo**: [Flutter Trading App Walkthrough](https://www.youtube.com/watch?v=CTuRE5X5Ew8&list=LL)
-
-Project Link: [https://github.com/PHom798/Flutter-Trading-App-Demo](https://github.com/PHom798/Flutter-Trading-App-Demo)
+📧 **[My Email](coolmax17787@gmail.com)**
+🐦 **[Follow me on X (Twitter)](https://x.com/KishanP07684084)**
+💼 **[LinkedIn](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)**
 
 ---
 
-<div align="center">
-  
+> 🌟 *If you find this project helpful or inspiring, don't forget to star the repo and share it with your network!*
+
   **⭐ Star this repo if you found it helpful!**
   
   Made with ❤️ and Flutter
