@@ -32,7 +32,6 @@ This Flutter trading application prototype demonstrates a complete mobile tradin
 
 **What you'll see in the demo:**
 - 📊 Real-time stock charts in action
-- 💰 Paper trading workflow
 - 🎨 Smooth UI animations and transitions  
 - ⚡ App performance across different screens
 
@@ -42,23 +41,14 @@ This Flutter trading application prototype demonstrates a complete mobile tradin
 - Live stock price updates
 - Interactive candlestick charts
 - Technical indicators & analysis tools
-- Market depth visualization
-
-### 💰 **Paper Trading**
-- Risk-free practice environment
-- Virtual portfolio management
-- Real-time profit/loss tracking
-- Trade history & analytics
 
 ### 🎨 **Modern UI/UX**
 - Clean, intuitive interface
-- Responsive design for all screen sizes
 - Smooth animations & transitions
 - Dark/Light theme support
 
 ### ⚡ **Performance**
 - Optimized Flutter widgets
-- Efficient state management
 - Smooth 60fps animations
 - Fast data loading & caching
 
@@ -75,56 +65,82 @@ This Flutter trading application prototype demonstrates a complete mobile tradin
   </table>
 </div>
 
-## 🚀 Getting Started
 
-### Prerequisites
+## 🏗️ Tech Stack
 
-- Flutter SDK (>=3.0.0)
-- Dart SDK (>=3.0.0)
-- Android Studio / VS Code
-- iOS Simulator / Android Emulator
+| Technology              | Description                                             |
+| ----------------------- | ------------------------------------------------------- |
+| **Flutter**             | Cross-platform framework for building native interfaces |
+| **Dart**                | Programming language used to develop Flutter apps       |
 
-### Installation
+---
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/flutter-trading-app.git
-   cd flutter-trading-app
-   ```
+## ⚙️ Installation & Setup
 
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
+Follow these simple steps to set up and run the project locally:
 
-3. **Run the application**
-   ```bash
-   flutter run
-   ```
-
-### Build for Production
+### 1️⃣ Clone the Repository
 
 ```bash
-# Android
-flutter build apk --release
-
-# iOS
-flutter build ios --release
+git clone https://github.com/<your-username>/Flutter-Quiz-App.git
+cd Flutter-Quiz-App
 ```
 
-## 📊 Key Components
+### 2️⃣ Install Dependencies
 
-### Trading Engine
-- Real-time market data integration
-- Order management system
-- Portfolio calculations
-- Risk management tools
+```bash
+flutter pub get
+```
 
-### UI Components
-- Custom chart widgets
-- Animated transitions
-- Responsive layouts
-- Gesture handling
+### 3️⃣ Run the Application
+
+```bash
+flutter run
+```
+
+---
+
+## 🧩 Learning Outcomes
+
+By working on this project, beginners can:
+
+* Understand **Flutter widget structure** and **navigation**.
+* Learn how to use **state management** effectively.
+* Practice **UI design** and **user interaction logic**.
+* Build confidence in structuring a small yet complete Flutter project.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve the app or add new features:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to your branch (`git push origin feature-name`)
+5. Open a Pull Request 🚀
+
+---
+🧠 Flutter Development Environment Setup
+
+This project is built using Flutter. Below are the essential details and configuration requirements for replicating the development environment.
+
+| Component              | Details                                      |
+| ---------------------- | -------------------------------------------- |
+| **Flutter Version**    | 3.27.1 (Stable Channel)                      |
+| **Framework Revision** | 17025dd882                                   |
+| **Engine Revision**    | cb4b5fff73                                   |
+| **Dart Version**       | 3.6.0                                        |
+| **DevTools Version**   | 2.40.2                                       |
+| **Operating System**   | Windows 10 (Version 10.0.26200.6725, 64-bit) |
+| **Locale**             | en-US                                        |
+
+
+💻 Android Studio
+
+* Version: 2023.3
+* Java Runtime: OpenJDK 17 (17.0.10+0--11572160)
 
 
 ## 💬 Connect
