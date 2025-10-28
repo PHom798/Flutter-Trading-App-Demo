@@ -53,6 +53,11 @@ This Flutter trading application prototype demonstrates a complete mobile tradin
 - Fast data loading & caching
 
 ## 📱 Screenshots
+<div align="center">
+  
+  ![Flutter Trading App Demo](screenshots/hello.png)
+    
+</div>
 
 <div align="left">
   <table>
